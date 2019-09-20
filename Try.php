@@ -1,3 +1,4 @@
+<?php
 $foo = 10;
  
 try {
@@ -10,3 +11,4 @@ try {
         throw new Exception('not a number type');
     }
 }
+?>
